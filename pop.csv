@@ -1,0 +1,595 @@
+region,country,year,population
+Eastern Africa,Burundi,2011,9455733
+Eastern Africa,Burundi,2012,9795479
+Eastern Africa,Burundi,2013,10149577
+Eastern Africa,Burundi,2014,10494913
+Eastern Africa,Burundi,2015,10727148
+Eastern Africa,Burundi,2016,10903327
+Eastern Africa,Burundi,2017,11155593
+Eastern Africa,Burundi,2018,11493472
+Eastern Africa,Burundi,2019,11874838
+Eastern Africa,Burundi,2020,12220227
+Eastern Africa,Burundi,2021,12551213
+Eastern Africa,Comoros,2011,670071
+Eastern Africa,Comoros,2012,684553
+Eastern Africa,Comoros,2013,699393
+Eastern Africa,Comoros,2014,714612
+Eastern Africa,Comoros,2015,730216
+Eastern Africa,Comoros,2016,746232
+Eastern Africa,Comoros,2017,761664
+Eastern Africa,Comoros,2018,776313
+Eastern Africa,Comoros,2019,790986
+Eastern Africa,Comoros,2020,806166
+Eastern Africa,Comoros,2021,821625
+Eastern Africa,Djibouti,2011,936811
+Eastern Africa,Djibouti,2012,954297
+Eastern Africa,Djibouti,2013,971753
+Eastern Africa,Djibouti,2014,989087
+Eastern Africa,Djibouti,2015,1006259
+Eastern Africa,Djibouti,2016,1023261
+Eastern Africa,Djibouti,2017,1040233
+Eastern Africa,Djibouti,2018,1057198
+Eastern Africa,Djibouti,2019,1073994
+Eastern Africa,Djibouti,2020,1090156
+Eastern Africa,Djibouti,2021,1105557
+Eastern Africa,Eritrea,2011,3207570
+Eastern Africa,Eritrea,2012,3252596
+Eastern Africa,Eritrea,2013,3296367
+Eastern Africa,Eritrea,2014,3323425
+Eastern Africa,Eritrea,2015,3340006
+Eastern Africa,Eritrea,2016,3365287
+Eastern Africa,Eritrea,2017,3396933
+Eastern Africa,Eritrea,2018,3445374
+Eastern Africa,Eritrea,2019,3498818
+Eastern Africa,Eritrea,2020,3555868
+Eastern Africa,Eritrea,2021,3620312
+Eastern Africa,Ethiopia,2011,91817929
+Eastern Africa,Ethiopia,2012,94451280
+Eastern Africa,Ethiopia,2013,97084366
+Eastern Africa,Ethiopia,2014,99746766
+Eastern Africa,Ethiopia,2015,102471895
+Eastern Africa,Ethiopia,2016,105293228
+Eastern Africa,Ethiopia,2017,108197950
+Eastern Africa,Ethiopia,2018,111129438
+Eastern Africa,Ethiopia,2019,114120594
+Eastern Africa,Ethiopia,2020,117190911
+Eastern Africa,Ethiopia,2021,120283026
+Eastern Africa,Kenya,2011,42635144
+Eastern Africa,Kenya,2012,43725806
+Eastern Africa,Kenya,2013,44792368
+Eastern Africa,Kenya,2014,45831863
+Eastern Africa,Kenya,2015,46851488
+Eastern Africa,Kenya,2016,47894670
+Eastern Africa,Kenya,2017,48948137
+Eastern Africa,Kenya,2018,49953304
+Eastern Africa,Kenya,2019,50951450
+Eastern Africa,Kenya,2020,51985780
+Eastern Africa,Kenya,2021,53005614
+Eastern Africa,Madagascar,2011,22348158
+Eastern Africa,Madagascar,2012,22966240
+Eastern Africa,Madagascar,2013,23588073
+Eastern Africa,Madagascar,2014,24215976
+Eastern Africa,Madagascar,2015,24850912
+Eastern Africa,Madagascar,2016,25501941
+Eastern Africa,Madagascar,2017,26169542
+Eastern Africa,Madagascar,2018,26846541
+Eastern Africa,Madagascar,2019,27533134
+Eastern Africa,Madagascar,2020,28225177
+Eastern Africa,Madagascar,2021,28915653
+Eastern Africa,Malawi,2011,15146094
+Eastern Africa,Malawi,2012,15581251
+Eastern Africa,Malawi,2013,16024775
+Eastern Africa,Malawi,2014,16477966
+Eastern Africa,Malawi,2015,16938942
+Eastern Africa,Malawi,2016,17405624
+Eastern Africa,Malawi,2017,17881167
+Eastern Africa,Malawi,2018,18367883
+Eastern Africa,Malawi,2019,18867337
+Eastern Africa,Malawi,2020,19377061
+Eastern Africa,Malawi,2021,19889742
+Eastern Africa,Mauritius,2011,1252404
+Eastern Africa,Mauritius,2012,1255882
+Eastern Africa,Mauritius,2013,1258927
+Eastern Africa,Mauritius,2014,1261208
+Eastern Africa,Mauritius,2015,1262879
+Eastern Africa,Mauritius,2016,1263747
+Eastern Africa,Mauritius,2017,1264887
+Eastern Africa,Mauritius,2018,1265577
+Eastern Africa,Mauritius,2019,1265985
+Eastern Africa,Mauritius,2020,1266014
+Eastern Africa,Mauritius,2021,1266334
+Eastern Africa,Mozambique,2011,23760421
+Eastern Africa,Mozambique,2012,24487611
+Eastern Africa,Mozambique,2013,25251731
+Eastern Africa,Mozambique,2014,26038704
+Eastern Africa,Mozambique,2015,26843246
+Eastern Africa,Mozambique,2016,27696493
+Eastern Africa,Mozambique,2017,28569441
+Eastern Africa,Mozambique,2018,29423878
+Eastern Africa,Mozambique,2019,30285595
+Eastern Africa,Mozambique,2020,31178239
+Eastern Africa,Mozambique,2021,32077072
+Eastern Africa,Rwanda,2011,10576932
+Eastern Africa,Rwanda,2012,10840334
+Eastern Africa,Rwanda,2013,11101350
+Eastern Africa,Rwanda,2014,11368451
+Eastern Africa,Rwanda,2015,11642959
+Eastern Africa,Rwanda,2016,11930899
+Eastern Africa,Rwanda,2017,12230339
+Eastern Africa,Rwanda,2018,12531808
+Eastern Africa,Rwanda,2019,12835028
+Eastern Africa,Rwanda,2020,13146362
+Eastern Africa,Rwanda,2021,13461888
+Eastern Africa,Seychelles,2011,87441
+Eastern Africa,Seychelles,2012,88303
+Eastern Africa,Seychelles,2013,89949
+Eastern Africa,Seychelles,2014,91359
+Eastern Africa,Seychelles,2015,93419
+Eastern Africa,Seychelles,2016,94677
+Eastern Africa,Seychelles,2017,95843
+Eastern Africa,Seychelles,2018,96762
+Eastern Africa,Seychelles,2019,97625
+Eastern Africa,Seychelles,2020,98462
+Eastern Africa,Seychelles,2021,99258
+Eastern Africa,Somalia,2011,12216837
+Eastern Africa,Somalia,2012,12440326
+Eastern Africa,Somalia,2013,12852485
+Eastern Africa,Somalia,2014,13309235
+Eastern Africa,Somalia,2015,13763906
+Eastern Africa,Somalia,2016,14292847
+Eastern Africa,Somalia,2017,14864221
+Eastern Africa,Somalia,2018,15411094
+Eastern Africa,Somalia,2019,15981300
+Eastern Africa,Somalia,2020,16537016
+Eastern Africa,Somalia,2021,17065581
+Eastern Africa,South Sudan,2011,10243050
+Eastern Africa,South Sudan,2012,10701604
+Eastern Africa,South Sudan,2013,11106031
+Eastern Africa,South Sudan,2014,11213284
+Eastern Africa,South Sudan,2015,11194299
+Eastern Africa,South Sudan,2016,11066105
+Eastern Africa,South Sudan,2017,10658226
+Eastern Africa,South Sudan,2018,10395329
+Eastern Africa,South Sudan,2019,10447666
+Eastern Africa,South Sudan,2020,10606227
+Eastern Africa,South Sudan,2021,10748272
+Eastern Africa,Tanzania,2011,46416031
+Eastern Africa,Tanzania,2012,47786137
+Eastern Africa,Tanzania,2013,49253643
+Eastern Africa,Tanzania,2014,50814552
+Eastern Africa,Tanzania,2015,52542823
+Eastern Africa,Tanzania,2016,54401802
+Eastern Africa,Tanzania,2017,56267032
+Eastern Africa,Tanzania,2018,58090443
+Eastern Africa,Tanzania,2019,59872579
+Eastern Africa,Tanzania,2020,61704518
+Eastern Africa,Tanzania,2021,63588334
+Eastern Africa,Uganda,2011,33295738
+Eastern Africa,Uganda,2012,34273295
+Eastern Africa,Uganda,2013,35273570
+Eastern Africa,Uganda,2014,36336539
+Eastern Africa,Uganda,2015,37477356
+Eastern Africa,Uganda,2016,38748299
+Eastern Africa,Uganda,2017,40127085
+Eastern Africa,Uganda,2018,41515395
+Eastern Africa,Uganda,2019,42949080
+Eastern Africa,Uganda,2020,44404611
+Eastern Africa,Uganda,2021,45853778
+Eastern Africa,Zambia,2011,14265814
+Eastern Africa,Zambia,2012,14744658
+Eastern Africa,Zambia,2013,15234976
+Eastern Africa,Zambia,2014,15737793
+Eastern Africa,Zambia,2015,16248230
+Eastern Africa,Zambia,2016,16767761
+Eastern Africa,Zambia,2017,17298054
+Eastern Africa,Zambia,2018,17835893
+Eastern Africa,Zambia,2019,18380477
+Eastern Africa,Zambia,2020,18927715
+Eastern Africa,Zambia,2021,19473125
+Eastern Africa,Zimbabwe,2011,13025785
+Eastern Africa,Zimbabwe,2012,13265331
+Eastern Africa,Zimbabwe,2013,13555422
+Eastern Africa,Zimbabwe,2014,13855753
+Eastern Africa,Zimbabwe,2015,14154937
+Eastern Africa,Zimbabwe,2016,14452704
+Eastern Africa,Zimbabwe,2017,14751101
+Eastern Africa,Zimbabwe,2018,15052184
+Eastern Africa,Zimbabwe,2019,15354608
+Eastern Africa,Zimbabwe,2020,15669666
+Eastern Africa,Zimbabwe,2021,15993524
+Middle Africa,Angola,2011,24259111
+Middle Africa,Angola,2012,25188292
+Middle Africa,Angola,2013,26147002
+Middle Africa,Angola,2014,27128337
+Middle Africa,Angola,2015,28127721
+Middle Africa,Angola,2016,29154746
+Middle Africa,Angola,2017,30208628
+Middle Africa,Angola,2018,31273533
+Middle Africa,Angola,2019,32353588
+Middle Africa,Angola,2020,33428486
+Middle Africa,Angola,2021,34503774
+Middle Africa,Cameroon,2011,20448873
+Middle Africa,Cameroon,2012,21032684
+Middle Africa,Cameroon,2013,21632850
+Middle Africa,Cameroon,2014,22299585
+Middle Africa,Cameroon,2015,23012646
+Middle Africa,Cameroon,2016,23711630
+Middle Africa,Cameroon,2017,24393181
+Middle Africa,Cameroon,2018,25076747
+Middle Africa,Cameroon,2019,25782341
+Middle Africa,Cameroon,2020,26491087
+Middle Africa,Cameroon,2021,27198628
+Middle Africa,Central African Republic,2011,4732022
+Middle Africa,Central African Republic,2012,4773306
+Middle Africa,Central African Republic,2013,4802428
+Middle Africa,Central African Republic,2014,4798734
+Middle Africa,Central African Republic,2015,4819333
+Middle Africa,Central African Republic,2016,4904177
+Middle Africa,Central African Republic,2017,4996741
+Middle Africa,Central African Republic,2018,5094780
+Middle Africa,Central African Republic,2019,5209324
+Middle Africa,Central African Republic,2020,5343020
+Middle Africa,Central African Republic,2021,5457154
+Middle Africa,Chad,2011,12317730
+Middle Africa,Chad,2012,12754906
+Middle Africa,Chad,2013,13216766
+Middle Africa,Chad,2014,13697126
+Middle Africa,Chad,2015,14140274
+Middle Africa,Chad,2016,14592585
+Middle Africa,Chad,2017,15085884
+Middle Africa,Chad,2018,15604210
+Middle Africa,Chad,2019,16126866
+Middle Africa,Chad,2020,16644701
+Middle Africa,Chad,2021,17179740
+Middle Africa,Congo,2011,4584216
+Middle Africa,Congo,2012,4713257
+Middle Africa,Congo,2013,4828066
+Middle Africa,Congo,2014,4944861
+Middle Africa,Congo,2015,5064386
+Middle Africa,Congo,2016,5186824
+Middle Africa,Congo,2017,5312340
+Middle Africa,Congo,2018,5441062
+Middle Africa,Congo,2019,5570733
+Middle Africa,Congo,2020,5702174
+Middle Africa,Congo,2021,5835806
+Middle Africa,Democratic Republic of the Congo,2011,68654269
+Middle Africa,Democratic Republic of the Congo,2012,70997870
+Middle Africa,Democratic Republic of the Congo,2013,73460021
+Middle Africa,Democratic Republic of the Congo,2014,76035588
+Middle Africa,Democratic Republic of the Congo,2015,78656904
+Middle Africa,Democratic Republic of the Congo,2016,81430977
+Middle Africa,Democratic Republic of the Congo,2017,84283273
+Middle Africa,Democratic Republic of the Congo,2018,87087355
+Middle Africa,Democratic Republic of the Congo,2019,89906890
+Middle Africa,Democratic Republic of the Congo,2020,92853164
+Middle Africa,Democratic Republic of the Congo,2021,95894118
+Middle Africa,Gabon,2011,1772500
+Middle Africa,Gabon,2012,1836705
+Middle Africa,Gabon,2013,1902226
+Middle Africa,Gabon,2014,1966855
+Middle Africa,Gabon,2015,2028517
+Middle Africa,Gabon,2016,2086206
+Middle Africa,Gabon,2017,2140215
+Middle Africa,Gabon,2018,2192012
+Middle Africa,Gabon,2019,2242785
+Middle Africa,Gabon,2020,2292573
+Middle Africa,Gabon,2021,2341179
+Middle Africa,Sao Tome and Principe,2011,186044
+Middle Africa,Sao Tome and Principe,2012,189924
+Middle Africa,Sao Tome and Principe,2013,193757
+Middle Africa,Sao Tome and Principe,2014,197497
+Middle Africa,Sao Tome and Principe,2015,201124
+Middle Africa,Sao Tome and Principe,2016,204632
+Middle Africa,Sao Tome and Principe,2017,208036
+Middle Africa,Sao Tome and Principe,2018,211344
+Middle Africa,Sao Tome and Principe,2019,214599
+Middle Africa,Sao Tome and Principe,2020,218641
+Middle Africa,Sao Tome and Principe,2021,223107
+Northern Africa,Algeria,2011,36543541
+Northern Africa,Algeria,2012,37260563
+Northern Africa,Algeria,2013,38000626
+Northern Africa,Algeria,2014,38760168
+Northern Africa,Algeria,2015,39543154
+Northern Africa,Algeria,2016,40339329
+Northern Africa,Algeria,2017,41136546
+Northern Africa,Algeria,2018,41927007
+Northern Africa,Algeria,2019,42705368
+Northern Africa,Algeria,2020,43451666
+Northern Africa,Algeria,2021,44177969
+Northern Africa,Egypt,2011,89200054
+Northern Africa,Egypt,2012,91240376
+Northern Africa,Egypt,2013,93377890
+Northern Africa,Egypt,2014,95592324
+Northern Africa,Egypt,2015,97723799
+Northern Africa,Egypt,2016,99784030
+Northern Africa,Egypt,2017,101789386
+Northern Africa,Egypt,2018,103740765
+Northern Africa,Egypt,2019,105618671
+Northern Africa,Egypt,2020,107465134
+Northern Africa,Egypt,2021,109262178
+Northern Africa,Libya,2011,6188132
+Northern Africa,Libya,2012,5869870
+Northern Africa,Libya,2013,5985221
+Northern Africa,Libya,2014,6097764
+Northern Africa,Libya,2015,6192235
+Northern Africa,Libya,2016,6282196
+Northern Africa,Libya,2017,6378261
+Northern Africa,Libya,2018,6477793
+Northern Africa,Libya,2019,6569088
+Northern Africa,Libya,2020,6653942
+Northern Africa,Libya,2021,6735277
+Northern Africa,Morocco,2011,32903699
+Northern Africa,Morocco,2012,33352169
+Northern Africa,Morocco,2013,33803527
+Northern Africa,Morocco,2014,34248603
+Northern Africa,Morocco,2015,34680458
+Northern Africa,Morocco,2016,35107264
+Northern Africa,Morocco,2017,35528115
+Northern Africa,Morocco,2018,35927511
+Northern Africa,Morocco,2019,36304408
+Northern Africa,Morocco,2020,36688772
+Northern Africa,Morocco,2021,37076584
+Northern Africa,Sudan,2011,34419624
+Northern Africa,Sudan,2012,35159792
+Northern Africa,Sudan,2013,35990704
+Northern Africa,Sudan,2014,37003245
+Northern Africa,Sudan,2015,38171178
+Northern Africa,Sudan,2016,39377169
+Northern Africa,Sudan,2017,40679828
+Northern Africa,Sudan,2018,41999059
+Northern Africa,Sudan,2019,43232093
+Northern Africa,Sudan,2020,44440486
+Northern Africa,Sudan,2021,45657202
+Northern Africa,Tunisia,2011,11032528
+Northern Africa,Tunisia,2012,11174383
+Northern Africa,Tunisia,2013,11300284
+Northern Africa,Tunisia,2014,11428948
+Northern Africa,Tunisia,2015,11557779
+Northern Africa,Tunisia,2016,11685667
+Northern Africa,Tunisia,2017,11811443
+Northern Africa,Tunisia,2018,11933041
+Northern Africa,Tunisia,2019,12049314
+Northern Africa,Tunisia,2020,12161723
+Northern Africa,Tunisia,2021,12262946
+Southern Africa,Botswana,2011,2134037
+Southern Africa,Botswana,2012,2175425
+Southern Africa,Botswana,2013,2217278
+Southern Africa,Botswana,2014,2260376
+Southern Africa,Botswana,2015,2305171
+Southern Africa,Botswana,2016,2352416
+Southern Africa,Botswana,2017,2401840
+Southern Africa,Botswana,2018,2451409
+Southern Africa,Botswana,2019,2499702
+Southern Africa,Botswana,2020,2546402
+Southern Africa,Botswana,2021,2588423
+Southern Africa,Eswatini,2011,1105371
+Southern Africa,Eswatini,2012,1111444
+Southern Africa,Eswatini,2013,1118319
+Southern Africa,Eswatini,2014,1125865
+Southern Africa,Eswatini,2015,1133936
+Southern Africa,Eswatini,2016,1142524
+Southern Africa,Eswatini,2017,1151390
+Southern Africa,Eswatini,2018,1160428
+Southern Africa,Eswatini,2019,1169613
+Southern Africa,Eswatini,2020,1180655
+Southern Africa,Eswatini,2021,1192271
+Southern Africa,Lesotho,2011,2037677
+Southern Africa,Lesotho,2012,2054718
+Southern Africa,Lesotho,2013,2073939
+Southern Africa,Lesotho,2014,2095242
+Southern Africa,Lesotho,2015,2118521
+Southern Africa,Lesotho,2016,2143872
+Southern Africa,Lesotho,2017,2170617
+Southern Africa,Lesotho,2018,2198017
+Southern Africa,Lesotho,2019,2225702
+Southern Africa,Lesotho,2020,2254100
+Southern Africa,Lesotho,2021,2281454
+Southern Africa,Namibia,2011,2132340
+Southern Africa,Namibia,2012,2167470
+Southern Africa,Namibia,2013,2204510
+Southern Africa,Namibia,2014,2243001
+Southern Africa,Namibia,2015,2282704
+Southern Africa,Namibia,2016,2323352
+Southern Africa,Namibia,2017,2364534
+Southern Africa,Namibia,2018,2405680
+Southern Africa,Namibia,2019,2446644
+Southern Africa,Namibia,2020,2489098
+Southern Africa,Namibia,2021,2530151
+Southern Africa,South Africa,2011,52443325
+Southern Africa,South Africa,2012,53145033
+Southern Africa,South Africa,2013,53873616
+Southern Africa,South Africa,2014,54729551
+Southern Africa,South Africa,2015,55876504
+Southern Africa,South Africa,2016,56422274
+Southern Africa,South Africa,2017,56641209
+Southern Africa,South Africa,2018,57339635
+Southern Africa,South Africa,2019,58087055
+Southern Africa,South Africa,2020,58801927
+Southern Africa,South Africa,2021,59392255
+Western Africa,Benin,2011,9726380
+Western Africa,Benin,2012,10014078
+Western Africa,Benin,2013,10308730
+Western Africa,Benin,2014,10614844
+Western Africa,Benin,2015,10932783
+Western Africa,Benin,2016,11260085
+Western Africa,Benin,2017,11596779
+Western Africa,Benin,2018,11940683
+Western Africa,Benin,2019,12290444
+Western Africa,Benin,2020,12643123
+Western Africa,Benin,2021,12996895
+Western Africa,Burkina Faso,2011,16602651
+Western Africa,Burkina Faso,2012,17113732
+Western Africa,Burkina Faso,2013,17636408
+Western Africa,Burkina Faso,2014,18169842
+Western Africa,Burkina Faso,2015,18718019
+Western Africa,Burkina Faso,2016,19275498
+Western Africa,Burkina Faso,2017,19835858
+Western Africa,Burkina Faso,2018,20392723
+Western Africa,Burkina Faso,2019,20951639
+Western Africa,Burkina Faso,2020,21522626
+Western Africa,Burkina Faso,2021,22100683
+Western Africa,Cabo Verde,2011,527521
+Western Africa,Cabo Verde,2012,533864
+Western Africa,Cabo Verde,2013,539940
+Western Africa,Cabo Verde,2014,546076
+Western Africa,Cabo Verde,2015,552166
+Western Africa,Cabo Verde,2016,558394
+Western Africa,Cabo Verde,2017,564954
+Western Africa,Cabo Verde,2018,571202
+Western Africa,Cabo Verde,2019,577030
+Western Africa,Cabo Verde,2020,582640
+Western Africa,Cabo Verde,2021,587925
+Western Africa,Cote d'Ivoire,2011,21562914
+Western Africa,Cote d'Ivoire,2012,22010712
+Western Africa,Cote d'Ivoire,2013,22469268
+Western Africa,Cote d'Ivoire,2014,22995555
+Western Africa,Cote d'Ivoire,2015,23596741
+Western Africa,Cote d'Ivoire,2016,24213622
+Western Africa,Cote d'Ivoire,2017,24848016
+Western Africa,Cote d'Ivoire,2018,25493988
+Western Africa,Cote d'Ivoire,2019,26147551
+Western Africa,Cote d'Ivoire,2020,26811790
+Western Africa,Cote d'Ivoire,2021,27478249
+Western Africa,Equatorial Guinea,2011,1144588
+Western Africa,Equatorial Guinea,2012,1193636
+Western Africa,Equatorial Guinea,2013,1243941
+Western Africa,Equatorial Guinea,2014,1295183
+Western Africa,Equatorial Guinea,2015,1346973
+Western Africa,Equatorial Guinea,2016,1398927
+Western Africa,Equatorial Guinea,2017,1450694
+Western Africa,Equatorial Guinea,2018,1502091
+Western Africa,Equatorial Guinea,2019,1553031
+Western Africa,Equatorial Guinea,2020,1596049
+Western Africa,Equatorial Guinea,2021,1634466
+Western Africa,Gambia,2011,1998212
+Western Africa,Gambia,2012,2061014
+Western Africa,Gambia,2013,2124869
+Western Africa,Gambia,2014,2189019
+Western Africa,Gambia,2015,2253133
+Western Africa,Gambia,2016,2317206
+Western Africa,Gambia,2017,2381182
+Western Africa,Gambia,2018,2444916
+Western Africa,Gambia,2019,2508883
+Western Africa,Gambia,2020,2573995
+Western Africa,Gambia,2021,2639916
+Western Africa,Ghana,2011,26205941
+Western Africa,Ghana,2012,26858762
+Western Africa,Ghana,2013,27525597
+Western Africa,Ghana,2014,28196358
+Western Africa,Ghana,2015,28870939
+Western Africa,Ghana,2016,29554303
+Western Africa,Ghana,2017,30222262
+Western Africa,Ghana,2018,30870641
+Western Africa,Ghana,2019,31522290
+Western Africa,Ghana,2020,32180401
+Western Africa,Ghana,2021,32833031
+Western Africa,Guinea,2011,10527712
+Western Africa,Guinea,2012,10788692
+Western Africa,Guinea,2013,11055430
+Western Africa,Guinea,2014,11333365
+Western Africa,Guinea,2015,11625998
+Western Africa,Guinea,2016,11930985
+Western Africa,Guinea,2017,12240789
+Western Africa,Guinea,2018,12554864
+Western Africa,Guinea,2019,12877539
+Western Africa,Guinea,2020,13205153
+Western Africa,Guinea,2021,13531906
+Western Africa,Guinea-Bissau,2011,1609017
+Western Africa,Guinea-Bissau,2012,1652717
+Western Africa,Guinea-Bissau,2013,1697753
+Western Africa,Guinea-Bissau,2014,1743309
+Western Africa,Guinea-Bissau,2015,1788919
+Western Africa,Guinea-Bissau,2016,1834552
+Western Africa,Guinea-Bissau,2017,1879826
+Western Africa,Guinea-Bissau,2018,1924955
+Western Africa,Guinea-Bissau,2019,1970457
+Western Africa,Guinea-Bissau,2020,2015828
+Western Africa,Guinea-Bissau,2021,2060721
+Western Africa,Liberia,2011,4181150
+Western Africa,Liberia,2012,4331740
+Western Africa,Liberia,2013,4427313
+Western Africa,Liberia,2014,4519398
+Western Africa,Liberia,2015,4612329
+Western Africa,Liberia,2016,4706097
+Western Africa,Liberia,2017,4796631
+Western Africa,Liberia,2018,4889391
+Western Africa,Liberia,2019,4985289
+Western Africa,Liberia,2020,5087584
+Western Africa,Liberia,2021,5193416
+Western Africa,Mali,2011,16039734
+Western Africa,Mali,2012,16514687
+Western Africa,Mali,2013,17004033
+Western Africa,Mali,2014,17551814
+Western Africa,Mali,2015,18112907
+Western Africa,Mali,2016,18700106
+Western Africa,Mali,2017,19311355
+Western Africa,Mali,2018,19934298
+Western Africa,Mali,2019,20567424
+Western Africa,Mali,2020,21224040
+Western Africa,Mali,2021,21904983
+Western Africa,Mauritania,2011,3524249
+Western Africa,Mauritania,2012,3636113
+Western Africa,Mauritania,2013,3742959
+Western Africa,Mauritania,2014,3843174
+Western Africa,Mauritania,2015,3946220
+Western Africa,Mauritania,2016,4051890
+Western Africa,Mauritania,2017,4160015
+Western Africa,Mauritania,2018,4270712
+Western Africa,Mauritania,2019,4383849
+Western Africa,Mauritania,2020,4498604
+Western Africa,Mauritania,2021,4614974
+Western Africa,Niger,2011,17283112
+Western Africa,Niger,2012,17954407
+Western Africa,Niger,2013,18653199
+Western Africa,Niger,2014,19372014
+Western Africa,Niger,2015,20128124
+Western Africa,Niger,2016,20921743
+Western Africa,Niger,2017,21737922
+Western Africa,Niger,2018,22577058
+Western Africa,Niger,2019,23443393
+Western Africa,Niger,2020,24333639
+Western Africa,Niger,2021,25252722
+Western Africa,Nigeria,2011,165463745
+Western Africa,Nigeria,2012,170075932
+Western Africa,Nigeria,2013,174726123
+Western Africa,Nigeria,2014,179379016
+Western Africa,Nigeria,2015,183995785
+Western Africa,Nigeria,2016,188666931
+Western Africa,Nigeria,2017,193495907
+Western Africa,Nigeria,2018,198387623
+Western Africa,Nigeria,2019,203304492
+Western Africa,Nigeria,2020,208327405
+Western Africa,Nigeria,2021,213401323
+Western Africa,Senegal,2011,12875880
+Western Africa,Senegal,2012,13231833
+Western Africa,Senegal,2013,13595566
+Western Africa,Senegal,2014,13970308
+Western Africa,Senegal,2015,14356181
+Western Africa,Senegal,2016,14751356
+Western Africa,Senegal,2017,15157793
+Western Africa,Senegal,2018,15574909
+Western Africa,Senegal,2019,16000781
+Western Africa,Senegal,2020,16436120
+Western Africa,Senegal,2021,16876720
+Western Africa,Sierra Leone,2011,6612385
+Western Africa,Sierra Leone,2012,6788587
+Western Africa,Sierra Leone,2013,6964859
+Western Africa,Sierra Leone,2014,7140688
+Western Africa,Sierra Leone,2015,7314773
+Western Africa,Sierra Leone,2016,7493913
+Western Africa,Sierra Leone,2017,7677565
+Western Africa,Sierra Leone,2018,7861281
+Western Africa,Sierra Leone,2019,8046828
+Western Africa,Sierra Leone,2020,8233970
+Western Africa,Sierra Leone,2021,8420641
+Western Africa,Togo,2011,6748672
+Western Africa,Togo,2012,6926635
+Western Africa,Togo,2013,7106229
+Western Africa,Togo,2014,7288383
+Western Africa,Togo,2015,7473229
+Western Africa,Togo,2016,7661354
+Western Africa,Togo,2017,7852795
+Western Africa,Togo,2018,8046679
+Western Africa,Togo,2019,8243094
+Western Africa,Togo,2020,8442580
+Western Africa,Togo,2021,8644829
