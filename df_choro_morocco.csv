@@ -1,0 +1,23 @@
+,region,country,year,life_expectancy,hiv,fertility,pop_density,infant_deaths,pop_under_15,neonatal_deaths,under5_deaths,undernourish,urban_pop,gdp,electricity,population,adm0_a3_is,geounit,capital,land
+319,Northern Africa,Morocco,2011,71.27,0.1,2.61,73.73,25.4,28.7,18.3,29.5,4.6,58.58,3302.45,96.07,32903699,MAR,Morocco,Rabat,Morocco
+320,Northern Africa,Morocco,2012,71.68,0.1,2.6,74.73,24.0,28.49,17.3,27.9,4.4,59.14,3164.0,96.44,33352169,MAR,Morocco,Rabat,Morocco
+321,Northern Africa,Morocco,2013,72.12,0.1,2.59,75.74,22.7,28.3,16.3,26.4,4.1,59.7,3377.64,97.2,33803527,MAR,Morocco,Rabat,Morocco
+322,Northern Africa,Morocco,2014,72.54,0.1,2.55,76.74,21.4,28.14,15.4,24.9,4.0,60.26,3430.53,97.28,34248603,MAR,Morocco,Rabat,Morocco
+323,Northern Africa,Morocco,2015,72.92,0.1,2.53,77.71,20.3,27.99,14.6,23.6,3.8,60.81,3139.23,97.3,34680458,MAR,Morocco,Rabat,Morocco
+324,Northern Africa,Morocco,2016,73.28,0.1,2.45,78.66,19.2,27.82,13.8,22.4,3.7,61.36,3132.95,97.8,35107264,MAR,Morocco,Rabat,Morocco
+325,Northern Africa,Morocco,2017,73.66,0.1,2.45,79.61,18.3,27.64,13.2,21.3,3.6,61.91,3288.5,100.0,35528115,MAR,Morocco,Rabat,Morocco
+326,Northern Africa,Morocco,2018,73.99,0.1,2.42,80.5,17.5,27.48,12.6,20.4,3.6,62.45,3492.67,98.1,35927511,MAR,Morocco,Rabat,Morocco
+327,Northern Africa,Morocco,2019,74.27,0.1,2.38,81.35,16.7,27.3,12.1,19.5,4.2,62.99,3498.58,99.6,36304408,MAR,Morocco,Rabat,Morocco
+328,Northern Africa,Morocco,2020,73.92,0.1,2.35,82.21,16.1,27.09,11.5,18.7,5.3,63.53,3258.27,100.0,36688772,MAR,Morocco,Rabat,Morocco
+329,Northern Africa,Morocco,2021,74.04,0.1,2.33,83.08,15.4,26.85,11.1,18.0,6.3,64.06,3767.52,100.0,37076584,MAR,Morocco,Rabat,Morocco
+594,Northern Africa,Western Sahara,2011,71.27,0.1,2.61,73.73,25.4,28.7,18.3,29.5,4.6,58.58,3302.45,96.07,32903699,MAR,Morocco,El Aayoun,Morocco
+595,Northern Africa,Western Sahara,2012,71.68,0.1,2.6,74.73,24.0,28.49,17.3,27.9,4.4,59.14,3164.0,96.44,33352169,MAR,Morocco,El Aayoun,Morocco
+596,Northern Africa,Western Sahara,2013,72.12,0.1,2.59,75.74,22.7,28.3,16.3,26.4,4.1,59.7,3377.64,97.2,33803527,MAR,Morocco,El Aayoun,Morocco
+597,Northern Africa,Western Sahara,2014,72.54,0.1,2.55,76.74,21.4,28.14,15.4,24.9,4.0,60.26,3430.53,97.28,34248603,MAR,Morocco,El Aayoun,Morocco
+598,Northern Africa,Western Sahara,2015,72.92,0.1,2.53,77.71,20.3,27.99,14.6,23.6,3.8,60.81,3139.23,97.3,34680458,MAR,Morocco,El Aayoun,Morocco
+599,Northern Africa,Western Sahara,2016,73.28,0.1,2.45,78.66,19.2,27.82,13.8,22.4,3.7,61.36,3132.95,97.8,35107264,MAR,Morocco,El Aayoun,Morocco
+600,Northern Africa,Western Sahara,2017,73.66,0.1,2.45,79.61,18.3,27.64,13.2,21.3,3.6,61.91,3288.5,100.0,35528115,MAR,Morocco,El Aayoun,Morocco
+601,Northern Africa,Western Sahara,2018,73.99,0.1,2.42,80.5,17.5,27.48,12.6,20.4,3.6,62.45,3492.67,98.1,35927511,MAR,Morocco,El Aayoun,Morocco
+602,Northern Africa,Western Sahara,2019,74.27,0.1,2.38,81.35,16.7,27.3,12.1,19.5,4.2,62.99,3498.58,99.6,36304408,MAR,Morocco,El Aayoun,Morocco
+603,Northern Africa,Western Sahara,2020,73.92,0.1,2.35,82.21,16.1,27.09,11.5,18.7,5.3,63.53,3258.27,100.0,36688772,MAR,Morocco,El Aayoun,Morocco
+604,Northern Africa,Western Sahara,2021,74.04,0.1,2.33,83.08,15.4,26.85,11.1,18.0,6.3,64.06,3767.52,100.0,37076584,MAR,Morocco,El Aayoun,Morocco

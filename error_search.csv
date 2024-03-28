@@ -1,0 +1,661 @@
+,region,country,year,electricity,pop
+0,Africa,Africa,2011,45.95,60965806.63
+1,Africa,Africa,2012,46.62,62646093.86
+2,Africa,Africa,2013,47.64,64335018.5
+3,Africa,Africa,2014,47.86,66059762.9
+4,Africa,Africa,2015,48.47,67800544.92
+5,Africa,Africa,2016,52.36,69551523.45
+6,Africa,Africa,2017,52.31,71347464.28
+7,Africa,Africa,2018,54.42,73158996.35
+8,Africa,Africa,2019,55.07,74961431.93
+9,Africa,Africa,2020,56.16,76804200.19
+10,Africa,Africa,2021,57.88,78667502.37
+11,Eastern Africa,Burundi,2011,6.16,9455733.0
+12,Eastern Africa,Burundi,2012,6.5,9795479.0
+13,Eastern Africa,Burundi,2013,6.9,10149577.0
+14,Eastern Africa,Burundi,2014,7.0,10494913.0
+15,Eastern Africa,Burundi,2015,7.89,10727148.0
+16,Eastern Africa,Burundi,2016,8.48,10903327.0
+17,Eastern Africa,Burundi,2017,9.3,11155593.0
+18,Eastern Africa,Burundi,2018,9.51,11493472.0
+19,Eastern Africa,Burundi,2019,9.84,11874838.0
+20,Eastern Africa,Burundi,2020,9.1,12220227.0
+21,Eastern Africa,Burundi,2021,10.23,12551213.0
+22,Eastern Africa,Comoros,2011,69.33,670071.0
+23,Eastern Africa,Comoros,2012,69.3,684553.0
+24,Eastern Africa,Comoros,2013,69.44,699393.0
+25,Eastern Africa,Comoros,2014,71.76,714612.0
+26,Eastern Africa,Comoros,2015,74.08,730216.0
+27,Eastern Africa,Comoros,2016,76.4,746232.0
+28,Eastern Africa,Comoros,2017,78.71,761664.0
+29,Eastern Africa,Comoros,2018,81.02,776313.0
+30,Eastern Africa,Comoros,2019,83.33,790986.0
+31,Eastern Africa,Comoros,2020,85.64,806166.0
+32,Eastern Africa,Comoros,2021,87.94,821625.0
+33,Eastern Africa,Djibouti,2011,58.12,936811.0
+34,Eastern Africa,Djibouti,2012,54.6,954297.0
+35,Eastern Africa,Djibouti,2013,58.64,971753.0
+36,Eastern Africa,Djibouti,2014,58.89,989087.0
+37,Eastern Africa,Djibouti,2015,59.13,1006259.0
+38,Eastern Africa,Djibouti,2016,59.84,1023261.0
+39,Eastern Africa,Djibouti,2017,60.2,1040233.0
+40,Eastern Africa,Djibouti,2018,62.41,1057198.0
+41,Eastern Africa,Djibouti,2019,64.7,1073994.0
+42,Eastern Africa,Djibouti,2020,64.5,1090156.0
+43,Eastern Africa,Djibouti,2021,65.44,1105557.0
+44,Eastern Africa,Eastern Africa,2011,22.2,44531715.89
+45,Eastern Africa,Eastern Africa,2012,25.53,45809378.56
+46,Eastern Africa,Eastern Africa,2013,25.38,47088173.82
+47,Eastern Africa,Eastern Africa,2014,26.21,48411215.39
+48,Eastern Africa,Eastern Africa,2015,27.8,49803440.44
+49,Eastern Africa,Eastern Africa,2016,35.33,51271076.78
+50,Eastern Africa,Eastern Africa,2017,36.96,52794446.28
+51,Eastern Africa,Eastern Africa,2018,40.74,54302450.11
+52,Eastern Africa,Eastern Africa,2019,42.55,55801870.62
+53,Eastern Africa,Eastern Africa,2020,44.33,57339827.13
+54,Eastern Africa,Eastern Africa,2021,46.86,58895731.06
+55,Eastern Africa,Eritrea,2011,41.2,3207570.0
+56,Eastern Africa,Eritrea,2012,42.35,3252596.0
+57,Eastern Africa,Eritrea,2013,43.49,3296367.0
+58,Eastern Africa,Eritrea,2014,44.63,3323425.0
+59,Eastern Africa,Eritrea,2015,45.77,3340006.0
+60,Eastern Africa,Eritrea,2016,46.9,3365287.0
+61,Eastern Africa,Eritrea,2017,48.02,3396933.0
+62,Eastern Africa,Eritrea,2018,49.15,3445374.0
+63,Eastern Africa,Eritrea,2019,50.27,3498818.0
+64,Eastern Africa,Eritrea,2020,51.39,3555868.0
+65,Eastern Africa,Eritrea,2021,52.51,3620312.0
+66,Eastern Africa,Ethiopia,2011,23.0,91817929.0
+67,Eastern Africa,Ethiopia,2012,29.02,94451280.0
+68,Eastern Africa,Ethiopia,2013,30.78,97084366.0
+69,Eastern Africa,Ethiopia,2014,27.2,99746766.0
+70,Eastern Africa,Ethiopia,2015,29.0,102471895.0
+71,Eastern Africa,Ethiopia,2016,42.9,105293228.0
+72,Eastern Africa,Ethiopia,2017,44.3,108197950.0
+73,Eastern Africa,Ethiopia,2018,44.84,111129438.0
+74,Eastern Africa,Ethiopia,2019,48.05,114120594.0
+75,Eastern Africa,Ethiopia,2020,51.14,117190911.0
+76,Eastern Africa,Ethiopia,2021,54.19,120283026.0
+77,Eastern Africa,Kenya,2011,36.16,42635144.0
+78,Eastern Africa,Kenya,2012,38.13,43725806.0
+79,Eastern Africa,Kenya,2013,40.09,44792368.0
+80,Eastern Africa,Kenya,2014,36.0,45831863.0
+81,Eastern Africa,Kenya,2015,41.6,46851488.0
+82,Eastern Africa,Kenya,2016,53.1,47894670.0
+83,Eastern Africa,Kenya,2017,55.83,48948137.0
+84,Eastern Africa,Kenya,2018,61.18,49953304.0
+85,Eastern Africa,Kenya,2019,69.7,50951450.0
+86,Eastern Africa,Kenya,2020,71.49,51985780.0
+87,Eastern Africa,Kenya,2021,76.54,53005614.0
+88,Eastern Africa,Madagascar,2011,14.3,22348158.0
+89,Eastern Africa,Madagascar,2012,18.7,22966240.0
+90,Eastern Africa,Madagascar,2013,12.9,23588073.0
+91,Eastern Africa,Madagascar,2014,22.98,24215976.0
+92,Eastern Africa,Madagascar,2015,23.76,24850912.0
+93,Eastern Africa,Madagascar,2016,22.9,25501941.0
+94,Eastern Africa,Madagascar,2017,24.1,26169542.0
+95,Eastern Africa,Madagascar,2018,36.5,26846541.0
+96,Eastern Africa,Madagascar,2019,31.04,27533134.0
+97,Eastern Africa,Madagascar,2020,32.0,28225177.0
+98,Eastern Africa,Madagascar,2021,35.12,28915653.0
+99,Eastern Africa,Malawi,2011,7.6,15146094.0
+100,Eastern Africa,Malawi,2012,7.4,15581251.0
+101,Eastern Africa,Malawi,2013,9.0,16024775.0
+102,Eastern Africa,Malawi,2014,11.9,16477966.0
+103,Eastern Africa,Malawi,2015,10.8,16938942.0
+104,Eastern Africa,Malawi,2016,11.0,17405624.0
+105,Eastern Africa,Malawi,2017,12.7,17881167.0
+106,Eastern Africa,Malawi,2018,18.02,18367883.0
+107,Eastern Africa,Malawi,2019,11.2,18867337.0
+108,Eastern Africa,Malawi,2020,11.5,19377061.0
+109,Eastern Africa,Malawi,2021,14.19,19889742.0
+110,Eastern Africa,Mauritius,2011,99.6,1252404.0
+111,Eastern Africa,Mauritius,2012,99.37,1255882.0
+112,Eastern Africa,Mauritius,2013,99.4,1258927.0
+113,Eastern Africa,Mauritius,2014,99.47,1261208.0
+114,Eastern Africa,Mauritius,2015,99.57,1262879.0
+115,Eastern Africa,Mauritius,2016,99.69,1263747.0
+116,Eastern Africa,Mauritius,2017,99.61,1264887.0
+117,Eastern Africa,Mauritius,2018,99.79,1265577.0
+118,Eastern Africa,Mauritius,2019,100.0,1265985.0
+119,Eastern Africa,Mauritius,2020,99.46,1266014.0
+120,Eastern Africa,Mauritius,2021,99.6,1266334.0
+121,Eastern Africa,Mozambique,2011,20.2,23760421.0
+122,Eastern Africa,Mozambique,2012,21.21,24487611.0
+123,Eastern Africa,Mozambique,2013,22.41,25251731.0
+124,Eastern Africa,Mozambique,2014,24.8,26038704.0
+125,Eastern Africa,Mozambique,2015,24.0,26843246.0
+126,Eastern Africa,Mozambique,2016,26.22,27696493.0
+127,Eastern Africa,Mozambique,2017,24.3,28569441.0
+128,Eastern Africa,Mozambique,2018,31.1,29423878.0
+129,Eastern Africa,Mozambique,2019,29.69,30285595.0
+130,Eastern Africa,Mozambique,2020,30.61,31178239.0
+131,Eastern Africa,Mozambique,2021,31.49,32077072.0
+132,Eastern Africa,Rwanda,2011,10.8,10576932.0
+133,Eastern Africa,Rwanda,2012,17.5,10840334.0
+134,Eastern Africa,Rwanda,2013,15.2,11101350.0
+135,Eastern Africa,Rwanda,2014,19.8,11368451.0
+136,Eastern Africa,Rwanda,2015,22.8,11642959.0
+137,Eastern Africa,Rwanda,2016,29.37,11930899.0
+138,Eastern Africa,Rwanda,2017,34.1,12230339.0
+139,Eastern Africa,Rwanda,2018,37.96,12531808.0
+140,Eastern Africa,Rwanda,2019,46.6,12835028.0
+141,Eastern Africa,Rwanda,2020,45.19,13146362.0
+142,Eastern Africa,Rwanda,2021,48.7,13461888.0
+143,Eastern Africa,Seychelles,2011,98.08,87441.0
+144,Eastern Africa,Seychelles,2012,98.3,88303.0
+145,Eastern Africa,Seychelles,2013,98.0,89949.0
+146,Eastern Africa,Seychelles,2014,100.0,91359.0
+147,Eastern Africa,Seychelles,2015,100.0,93419.0
+148,Eastern Africa,Seychelles,2016,100.0,94677.0
+149,Eastern Africa,Seychelles,2017,100.0,95843.0
+150,Eastern Africa,Seychelles,2018,100.0,96762.0
+151,Eastern Africa,Seychelles,2019,100.0,97625.0
+152,Eastern Africa,Seychelles,2020,100.0,98462.0
+153,Eastern Africa,Seychelles,2021,100.0,99258.0
+154,Eastern Africa,Somalia,2011,52.01,12216837.0
+155,Eastern Africa,Somalia,2012,51.76,12440326.0
+156,Eastern Africa,Somalia,2013,51.55,12852485.0
+157,Eastern Africa,Somalia,2014,51.38,13309235.0
+158,Eastern Africa,Somalia,2015,51.24,13763906.0
+159,Eastern Africa,Somalia,2016,51.12,14292847.0
+160,Eastern Africa,Somalia,2017,52.1,14864221.0
+161,Eastern Africa,Somalia,2018,50.73,15411094.0
+162,Eastern Africa,Somalia,2019,49.2,15981300.0
+163,Eastern Africa,Somalia,2020,49.86,16537016.0
+164,Eastern Africa,Somalia,2021,49.32,17065581.0
+165,Eastern Africa,South Sudan,2011,2.78,10243050.0
+166,Eastern Africa,South Sudan,2012,3.3,10701604.0
+167,Eastern Africa,South Sudan,2013,3.81,11106031.0
+168,Eastern Africa,South Sudan,2014,4.31,11213284.0
+169,Eastern Africa,South Sudan,2015,4.81,11194299.0
+170,Eastern Africa,South Sudan,2016,5.3,11066105.0
+171,Eastern Africa,South Sudan,2017,4.2,10658226.0
+172,Eastern Africa,South Sudan,2018,6.29,10395329.0
+173,Eastern Africa,South Sudan,2019,6.77,10447666.0
+174,Eastern Africa,South Sudan,2020,7.26,10606227.0
+175,Eastern Africa,South Sudan,2021,7.75,10748272.0
+176,Eastern Africa,Tanzania,2011,14.2,46416031.0
+177,Eastern Africa,Tanzania,2012,15.3,47786137.0
+178,Eastern Africa,Tanzania,2013,16.4,49253643.0
+179,Eastern Africa,Tanzania,2014,23.5,50814552.0
+180,Eastern Africa,Tanzania,2015,26.22,52542823.0
+181,Eastern Africa,Tanzania,2016,32.8,54401802.0
+182,Eastern Africa,Tanzania,2017,32.1,56267032.0
+183,Eastern Africa,Tanzania,2018,34.93,58090443.0
+184,Eastern Africa,Tanzania,2019,37.7,59872579.0
+185,Eastern Africa,Tanzania,2020,39.9,61704518.0
+186,Eastern Africa,Tanzania,2021,42.74,63588334.0
+187,Eastern Africa,Uganda,2011,14.6,33295738.0
+188,Eastern Africa,Uganda,2012,20.47,34273295.0
+189,Eastern Africa,Uganda,2013,13.9,35273570.0
+190,Eastern Africa,Uganda,2014,20.4,36336539.0
+191,Eastern Africa,Uganda,2015,18.5,37477356.0
+192,Eastern Africa,Uganda,2016,26.7,38748299.0
+193,Eastern Africa,Uganda,2017,32.39,40127085.0
+194,Eastern Africa,Uganda,2018,41.92,41515395.0
+195,Eastern Africa,Uganda,2019,41.3,42949080.0
+196,Eastern Africa,Uganda,2020,42.14,44404611.0
+197,Eastern Africa,Uganda,2021,45.22,45853778.0
+198,Eastern Africa,Zambia,2011,28.32,14265814.0
+199,Eastern Africa,Zambia,2012,29.19,14744658.0
+200,Eastern Africa,Zambia,2013,30.05,15234976.0
+201,Eastern Africa,Zambia,2014,27.9,15737793.0
+202,Eastern Africa,Zambia,2015,31.1,16248230.0
+203,Eastern Africa,Zambia,2016,35.38,16767761.0
+204,Eastern Africa,Zambia,2017,40.3,17298054.0
+205,Eastern Africa,Zambia,2018,40.23,17835893.0
+206,Eastern Africa,Zambia,2019,43.0,18380477.0
+207,Eastern Africa,Zambia,2020,44.6,18927715.0
+208,Eastern Africa,Zambia,2021,46.69,19473125.0
+209,Eastern Africa,Zimbabwe,2011,36.9,13025785.0
+210,Eastern Africa,Zimbabwe,2012,44.0,13265331.0
+211,Eastern Africa,Zimbabwe,2013,40.64,13555422.0
+212,Eastern Africa,Zimbabwe,2014,32.3,13855753.0
+213,Eastern Africa,Zimbabwe,2015,33.7,14154937.0
+214,Eastern Africa,Zimbabwe,2016,42.47,14452704.0
+215,Eastern Africa,Zimbabwe,2017,43.98,14751101.0
+216,Eastern Africa,Zimbabwe,2018,45.4,15052184.0
+217,Eastern Africa,Zimbabwe,2019,46.68,15354608.0
+218,Eastern Africa,Zimbabwe,2020,52.75,15669666.0
+219,Eastern Africa,Zimbabwe,2021,48.98,15993524.0
+220,Middle Africa,Angola,2011,34.6,24259111.0
+221,Middle Africa,Angola,2012,37.26,25188292.0
+222,Middle Africa,Angola,2013,38.4,26147002.0
+223,Middle Africa,Angola,2014,32.0,27128337.0
+224,Middle Africa,Angola,2015,42.0,28127721.0
+225,Middle Africa,Angola,2016,41.79,29154746.0
+226,Middle Africa,Angola,2017,42.91,30208628.0
+227,Middle Africa,Angola,2018,45.29,31273533.0
+228,Middle Africa,Angola,2019,45.63,32353588.0
+229,Middle Africa,Angola,2020,46.96,33428486.0
+230,Middle Africa,Angola,2021,48.22,34503774.0
+231,Middle Africa,Cameroon,2011,53.7,20448873.0
+232,Middle Africa,Cameroon,2012,55.16,21032684.0
+233,Middle Africa,Cameroon,2013,56.32,21632850.0
+234,Middle Africa,Cameroon,2014,56.8,22299585.0
+235,Middle Africa,Cameroon,2015,58.62,23012646.0
+236,Middle Africa,Cameroon,2016,59.76,23711630.0
+237,Middle Africa,Cameroon,2017,60.9,24393181.0
+238,Middle Africa,Cameroon,2018,62.2,25076747.0
+239,Middle Africa,Cameroon,2019,63.18,25782341.0
+240,Middle Africa,Cameroon,2020,64.31,26491087.0
+241,Middle Africa,Cameroon,2021,65.45,27198628.0
+242,Middle Africa,Central African Republic,2011,10.44,4732022.0
+243,Middle Africa,Central African Republic,2012,10.97,4773306.0
+244,Middle Africa,Central African Republic,2013,11.5,4802428.0
+245,Middle Africa,Central African Republic,2014,12.04,4798734.0
+246,Middle Africa,Central African Republic,2015,12.71,4819333.0
+247,Middle Africa,Central African Republic,2016,13.4,4904177.0
+248,Middle Africa,Central African Republic,2017,14.07,4996741.0
+249,Middle Africa,Central African Republic,2018,14.64,5094780.0
+250,Middle Africa,Central African Republic,2019,14.3,5209324.0
+251,Middle Africa,Central African Republic,2020,15.41,5343020.0
+252,Middle Africa,Central African Republic,2021,15.68,5457154.0
+253,Middle Africa,Chad,2011,8.98,12317730.0
+254,Middle Africa,Chad,2012,7.79,12754906.0
+255,Middle Africa,Chad,2013,8.09,13216766.0
+256,Middle Africa,Chad,2014,8.43,13697126.0
+257,Middle Africa,Chad,2015,7.7,14140274.0
+258,Middle Africa,Chad,2016,9.25,14592585.0
+259,Middle Africa,Chad,2017,10.9,15085884.0
+260,Middle Africa,Chad,2018,10.06,15604210.0
+261,Middle Africa,Chad,2019,8.4,16126866.0
+262,Middle Africa,Chad,2020,10.87,16644701.0
+263,Middle Africa,Chad,2021,11.27,17179740.0
+264,Middle Africa,Congo,2011,40.82,4584216.0
+265,Middle Africa,Congo,2012,41.6,4713257.0
+266,Middle Africa,Congo,2013,42.5,4828066.0
+267,Middle Africa,Congo,2014,43.4,4944861.0
+268,Middle Africa,Congo,2015,44.33,5064386.0
+269,Middle Africa,Congo,2016,45.28,5186824.0
+270,Middle Africa,Congo,2017,46.21,5312340.0
+271,Middle Africa,Congo,2018,47.04,5441062.0
+272,Middle Africa,Congo,2019,47.73,5570733.0
+273,Middle Africa,Congo,2020,48.68,5702174.0
+274,Middle Africa,Congo,2021,49.66,5835806.0
+275,Middle Africa,Democratic Republic of the Congo,2011,13.73,68654269.0
+276,Middle Africa,Democratic Republic of the Congo,2012,15.4,70997870.0
+277,Middle Africa,Democratic Republic of the Congo,2013,15.17,73460021.0
+278,Middle Africa,Democratic Republic of the Congo,2014,13.5,76035588.0
+279,Middle Africa,Democratic Republic of the Congo,2015,16.58,78656904.0
+280,Middle Africa,Democratic Republic of the Congo,2016,17.29,81430977.0
+281,Middle Africa,Democratic Republic of the Congo,2017,17.99,84283273.0
+282,Middle Africa,Democratic Republic of the Congo,2018,18.68,87087355.0
+283,Middle Africa,Democratic Republic of the Congo,2019,19.1,89906890.0
+284,Middle Africa,Democratic Republic of the Congo,2020,20.07,92853164.0
+285,Middle Africa,Democratic Republic of the Congo,2021,20.77,95894118.0
+286,Middle Africa,Gabon,2011,88.73,1772500.0
+287,Middle Africa,Gabon,2012,89.3,1836705.0
+288,Middle Africa,Gabon,2013,86.4,1902226.0
+289,Middle Africa,Gabon,2014,87.08,1966855.0
+290,Middle Africa,Gabon,2015,87.33,2028517.0
+291,Middle Africa,Gabon,2016,88.08,2086206.0
+292,Middle Africa,Gabon,2017,86.27,2140215.0
+293,Middle Africa,Gabon,2018,89.57,2192012.0
+294,Middle Africa,Gabon,2019,90.32,2242785.0
+295,Middle Africa,Gabon,2020,91.06,2292573.0
+296,Middle Africa,Gabon,2021,91.81,2341179.0
+297,Middle Africa,Middle Africa,2011,24.8,43214118.43
+298,Middle Africa,Middle Africa,2012,26.26,44729341.39
+299,Middle Africa,Middle Africa,2013,26.55,46330473.92
+300,Middle Africa,Middle Africa,2014,24.72,48015457.22
+301,Middle Africa,Middle Africa,2015,28.33,49731437.11
+302,Middle Africa,Middle Africa,2016,29.0,51537451.52
+303,Middle Africa,Middle Africa,2017,29.88,53392219.52
+304,Middle Africa,Middle Africa,2018,30.83,55209500.03
+305,Middle Africa,Middle Africa,2019,31.1,57032966.65
+306,Middle Africa,Middle Africa,2020,32.26,58939373.49
+307,Middle Africa,Middle Africa,2021,33.06,60914253.36
+308,Middle Africa,Sao Tome and Principe,2011,62.61,186044.0
+309,Middle Africa,Sao Tome and Principe,2012,57.9,189924.0
+310,Middle Africa,Sao Tome and Principe,2013,64.96,193757.0
+311,Middle Africa,Sao Tome and Principe,2014,68.6,197497.0
+312,Middle Africa,Sao Tome and Principe,2015,67.31,201124.0
+313,Middle Africa,Sao Tome and Principe,2016,69.36,204632.0
+314,Middle Africa,Sao Tome and Principe,2017,74.27,208036.0
+315,Middle Africa,Sao Tome and Principe,2018,71.0,211344.0
+316,Middle Africa,Sao Tome and Principe,2019,75.12,214599.0
+317,Middle Africa,Sao Tome and Principe,2020,76.81,218641.0
+318,Middle Africa,Sao Tome and Principe,2021,78.45,223107.0
+319,Northern Africa,Algeria,2011,99.0,36543541.0
+320,Northern Africa,Algeria,2012,98.76,37260563.0
+321,Northern Africa,Algeria,2013,99.19,38000626.0
+322,Northern Africa,Algeria,2014,99.27,38760168.0
+323,Northern Africa,Algeria,2015,99.36,39543154.0
+324,Northern Africa,Algeria,2016,99.43,40339329.0
+325,Northern Africa,Algeria,2017,99.53,41136546.0
+326,Northern Africa,Algeria,2018,99.64,41927007.0
+327,Northern Africa,Algeria,2019,99.5,42705368.0
+328,Northern Africa,Algeria,2020,99.72,43451666.0
+329,Northern Africa,Algeria,2021,99.79,44177969.0
+330,Northern Africa,Egypt,2011,99.44,89200054.0
+331,Northern Africa,Egypt,2012,99.7,91240376.0
+332,Northern Africa,Egypt,2013,99.88,93377890.0
+333,Northern Africa,Egypt,2014,99.8,95592324.0
+334,Northern Africa,Egypt,2015,99.3,97723799.0
+335,Northern Africa,Egypt,2016,100.0,99784030.0
+336,Northern Africa,Egypt,2017,100.0,101789386.0
+337,Northern Africa,Egypt,2018,100.0,103740765.0
+338,Northern Africa,Egypt,2019,100.0,105618671.0
+339,Northern Africa,Egypt,2020,100.0,107465134.0
+340,Northern Africa,Egypt,2021,100.0,109262178.0
+341,Northern Africa,Libya,2011,80.29,6188132.0
+342,Northern Africa,Libya,2012,78.68,5869870.0
+343,Northern Africa,Libya,2013,77.07,5985221.0
+344,Northern Africa,Libya,2014,75.45,6097764.0
+345,Northern Africa,Libya,2015,73.83,6192235.0
+346,Northern Africa,Libya,2016,72.21,6282196.0
+347,Northern Africa,Libya,2017,70.58,6378261.0
+348,Northern Africa,Libya,2018,67.0,6477793.0
+349,Northern Africa,Libya,2019,68.47,6569088.0
+350,Northern Africa,Libya,2020,69.37,6653942.0
+351,Northern Africa,Libya,2021,70.21,6735277.0
+352,Northern Africa,Morocco,2011,96.07,32903699.0
+353,Northern Africa,Morocco,2012,96.44,33352169.0
+354,Northern Africa,Morocco,2013,97.2,33803527.0
+355,Northern Africa,Morocco,2014,97.28,34248603.0
+356,Northern Africa,Morocco,2015,97.3,34680458.0
+357,Northern Africa,Morocco,2016,97.8,35107264.0
+358,Northern Africa,Morocco,2017,100.0,35528115.0
+359,Northern Africa,Morocco,2018,98.1,35927511.0
+360,Northern Africa,Morocco,2019,99.6,36304408.0
+361,Northern Africa,Morocco,2020,100.0,36688772.0
+362,Northern Africa,Morocco,2021,100.0,37076584.0
+363,Northern Africa,Northern Africa,2011,88.27,55730603.35
+364,Northern Africa,Northern Africa,2012,88.75,57092491.22
+365,Northern Africa,Northern Africa,2013,89.35,58432246.44
+366,Northern Africa,Northern Africa,2014,89.55,59831446.31
+367,Northern Africa,Northern Africa,2015,89.75,61198869.71
+368,Northern Africa,Northern Africa,2016,90.44,62531120.6
+369,Northern Africa,Northern Africa,2017,91.07,63839346.87
+370,Northern Africa,Northern Africa,2018,91.01,65118799.41
+371,Northern Africa,Northern Africa,2019,91.57,66352179.13
+372,Northern Africa,Northern Africa,2020,91.99,67567133.55
+373,Northern Africa,Northern Africa,2021,92.33,68757162.76
+374,Northern Africa,Sudan,2011,38.34,34419624.0
+375,Northern Africa,Sudan,2012,40.7,35159792.0
+376,Northern Africa,Sudan,2013,43.1,35990704.0
+377,Northern Africa,Sudan,2014,44.9,37003245.0
+378,Northern Africa,Sudan,2015,48.02,38171178.0
+379,Northern Africa,Sudan,2016,50.5,39377169.0
+380,Northern Africa,Sudan,2017,52.97,40679828.0
+381,Northern Africa,Sudan,2018,55.34,41999059.0
+382,Northern Africa,Sudan,2019,57.57,43232093.0
+383,Northern Africa,Sudan,2020,59.7,44440486.0
+384,Northern Africa,Sudan,2021,61.77,45657202.0
+385,Northern Africa,Tunisia,2011,99.5,11032528.0
+386,Northern Africa,Tunisia,2012,99.5,11174383.0
+387,Northern Africa,Tunisia,2013,99.7,11300284.0
+388,Northern Africa,Tunisia,2014,99.8,11428948.0
+389,Northern Africa,Tunisia,2015,99.9,11557779.0
+390,Northern Africa,Tunisia,2016,100.0,11685667.0
+391,Northern Africa,Tunisia,2017,100.0,11811443.0
+392,Northern Africa,Tunisia,2018,99.8,11933041.0
+393,Northern Africa,Tunisia,2019,100.0,12049314.0
+394,Northern Africa,Tunisia,2020,99.9,12161723.0
+395,Northern Africa,Tunisia,2021,99.9,12262946.0
+396,Southern Africa,Botswana,2011,53.24,2134037.0
+397,Southern Africa,Botswana,2012,55.97,2175425.0
+398,Southern Africa,Botswana,2013,57.97,2217278.0
+399,Southern Africa,Botswana,2014,60.02,2260376.0
+400,Southern Africa,Botswana,2015,62.13,2305171.0
+401,Southern Africa,Botswana,2016,64.2,2352416.0
+402,Southern Africa,Botswana,2017,67.4,2401840.0
+403,Southern Africa,Botswana,2018,68.25,2451409.0
+404,Southern Africa,Botswana,2019,70.1,2499702.0
+405,Southern Africa,Botswana,2020,71.83,2546402.0
+406,Southern Africa,Botswana,2021,73.73,2588423.0
+407,Southern Africa,Eswatini,2011,51.18,1105371.0
+408,Southern Africa,Eswatini,2012,54.3,1111444.0
+409,Southern Africa,Eswatini,2013,57.53,1118319.0
+410,Southern Africa,Eswatini,2014,65.0,1125865.0
+411,Southern Africa,Eswatini,2015,64.12,1133936.0
+412,Southern Africa,Eswatini,2016,63.43,1142524.0
+413,Southern Africa,Eswatini,2017,73.5,1151390.0
+414,Southern Africa,Eswatini,2018,73.96,1160428.0
+415,Southern Africa,Eswatini,2019,77.03,1169613.0
+416,Southern Africa,Eswatini,2020,79.99,1180655.0
+417,Southern Africa,Eswatini,2021,82.9,1192271.0
+418,Southern Africa,Lesotho,2011,22.53,2037677.0
+419,Southern Africa,Lesotho,2012,20.56,2054718.0
+420,Southern Africa,Lesotho,2013,26.88,2073939.0
+421,Southern Africa,Lesotho,2014,27.8,2095242.0
+422,Southern Africa,Lesotho,2015,31.77,2118521.0
+423,Southern Africa,Lesotho,2016,35.07,2143872.0
+424,Southern Africa,Lesotho,2017,33.7,2170617.0
+425,Southern Africa,Lesotho,2018,47.0,2198017.0
+426,Southern Africa,Lesotho,2019,44.56,2225702.0
+427,Southern Africa,Lesotho,2020,47.5,2254100.0
+428,Southern Africa,Lesotho,2021,50.38,2281454.0
+429,Southern Africa,Namibia,2011,42.3,2132340.0
+430,Southern Africa,Namibia,2012,46.4,2167470.0
+431,Southern Africa,Namibia,2013,47.4,2204510.0
+432,Southern Africa,Namibia,2014,48.38,2243001.0
+433,Southern Africa,Namibia,2015,51.6,2282704.0
+434,Southern Africa,Namibia,2016,49.7,2323352.0
+435,Southern Africa,Namibia,2017,52.5,2364534.0
+436,Southern Africa,Namibia,2018,52.32,2405680.0
+437,Southern Africa,Namibia,2019,53.28,2446644.0
+438,Southern Africa,Namibia,2020,52.3,2489098.0
+439,Southern Africa,Namibia,2021,55.23,2530151.0
+440,Southern Africa,South Africa,2011,83.6,52443325.0
+441,Southern Africa,South Africa,2012,85.2,53145033.0
+442,Southern Africa,South Africa,2013,85.2,53873616.0
+443,Southern Africa,South Africa,2014,85.9,54729551.0
+444,Southern Africa,South Africa,2015,85.3,55876504.0
+445,Southern Africa,South Africa,2016,83.9,56422274.0
+446,Southern Africa,South Africa,2017,84.4,56641209.0
+447,Southern Africa,South Africa,2018,84.7,57339635.0
+448,Southern Africa,South Africa,2019,85.0,58087055.0
+449,Southern Africa,South Africa,2020,90.0,58801927.0
+450,Southern Africa,South Africa,2021,89.3,59392255.0
+451,Southern Africa,Southern Africa,2011,78.37,46192986.91
+452,Southern Africa,Southern Africa,2012,80.01,46811057.7
+453,Southern Africa,Southern Africa,2013,80.39,47451707.42
+454,Southern Africa,Southern Africa,2014,81.29,48213405.54
+455,Southern Africa,Southern Africa,2015,81.1,49256717.52
+456,Southern Africa,Southern Africa,2016,79.96,49706209.71
+457,Southern Africa,Southern Africa,2017,80.71,49832289.85
+458,Southern Africa,Southern Africa,2018,81.44,50427881.84
+459,Southern Africa,Southern Africa,2019,81.78,51072224.24
+460,Southern Africa,Southern Africa,2020,86.32,51682897.75
+461,Southern Africa,Southern Africa,2021,86.02,52176088.32
+462,Western Africa,Benin,2011,36.9,9726380.0
+463,Western Africa,Benin,2012,38.4,10014078.0
+464,Western Africa,Benin,2013,34.65,10308730.0
+465,Western Africa,Benin,2014,34.1,10614844.0
+466,Western Africa,Benin,2015,29.62,10932783.0
+467,Western Africa,Benin,2016,37.03,11260085.0
+468,Western Africa,Benin,2017,34.5,11596779.0
+469,Western Africa,Benin,2018,39.01,11940683.0
+470,Western Africa,Benin,2019,40.0,12290444.0
+471,Western Africa,Benin,2020,40.99,12643123.0
+472,Western Africa,Benin,2021,41.97,12996895.0
+473,Western Africa,Burkina Faso,2011,14.78,16602651.0
+474,Western Africa,Burkina Faso,2012,15.07,17113732.0
+475,Western Africa,Burkina Faso,2013,15.39,17636408.0
+476,Western Africa,Burkina Faso,2014,19.2,18169842.0
+477,Western Africa,Burkina Faso,2015,16.15,18718019.0
+478,Western Africa,Burkina Faso,2016,16.57,19275498.0
+479,Western Africa,Burkina Faso,2017,17.01,19835858.0
+480,Western Africa,Burkina Faso,2018,14.4,20392723.0
+481,Western Africa,Burkina Faso,2019,17.6,20951639.0
+482,Western Africa,Burkina Faso,2020,18.47,21522626.0
+483,Western Africa,Burkina Faso,2021,18.95,22100683.0
+484,Western Africa,Cabo Verde,2011,82.26,527521.0
+485,Western Africa,Cabo Verde,2012,83.25,533864.0
+486,Western Africa,Cabo Verde,2013,84.27,539940.0
+487,Western Africa,Cabo Verde,2014,85.33,546076.0
+488,Western Africa,Cabo Verde,2015,86.42,552166.0
+489,Western Africa,Cabo Verde,2016,87.53,558394.0
+490,Western Africa,Cabo Verde,2017,88.61,564954.0
+491,Western Africa,Cabo Verde,2018,90.2,571202.0
+492,Western Africa,Cabo Verde,2019,91.4,577030.0
+493,Western Africa,Cabo Verde,2020,93.75,582640.0
+494,Western Africa,Cabo Verde,2021,95.52,587925.0
+495,Western Africa,Cote d'Ivoire,2011,55.8,21562914.0
+496,Western Africa,Cote d'Ivoire,2012,55.8,22010712.0
+497,Western Africa,Cote d'Ivoire,2013,61.45,22469268.0
+498,Western Africa,Cote d'Ivoire,2014,61.9,22995555.0
+499,Western Africa,Cote d'Ivoire,2015,62.6,23596741.0
+500,Western Africa,Cote d'Ivoire,2016,64.3,24213622.0
+501,Western Africa,Cote d'Ivoire,2017,65.6,24848016.0
+502,Western Africa,Cote d'Ivoire,2018,67.15,25493988.0
+503,Western Africa,Cote d'Ivoire,2019,68.57,26147551.0
+504,Western Africa,Cote d'Ivoire,2020,69.88,26811790.0
+505,Western Africa,Cote d'Ivoire,2021,71.14,27478249.0
+506,Western Africa,Equatorial Guinea,2011,66.1,1144588.0
+507,Western Africa,Equatorial Guinea,2012,65.75,1193636.0
+508,Western Africa,Equatorial Guinea,2013,65.88,1243941.0
+509,Western Africa,Equatorial Guinea,2014,66.0,1295183.0
+510,Western Africa,Equatorial Guinea,2015,66.12,1346973.0
+511,Western Africa,Equatorial Guinea,2016,66.24,1398927.0
+512,Western Africa,Equatorial Guinea,2017,66.35,1450694.0
+513,Western Africa,Equatorial Guinea,2018,66.46,1502091.0
+514,Western Africa,Equatorial Guinea,2019,66.57,1553031.0
+515,Western Africa,Equatorial Guinea,2020,66.68,1596049.0
+516,Western Africa,Equatorial Guinea,2021,66.79,1634466.0
+517,Western Africa,Gambia,2011,48.32,1998212.0
+518,Western Africa,Gambia,2012,49.86,2061014.0
+519,Western Africa,Gambia,2013,51.5,2124869.0
+520,Western Africa,Gambia,2014,53.04,2189019.0
+521,Western Africa,Gambia,2015,54.69,2253133.0
+522,Western Africa,Gambia,2016,56.35,2317206.0
+523,Western Africa,Gambia,2017,56.2,2381182.0
+524,Western Africa,Gambia,2018,60.3,2444916.0
+525,Western Africa,Gambia,2019,62.1,2508883.0
+526,Western Africa,Gambia,2020,62.23,2573995.0
+527,Western Africa,Gambia,2021,63.7,2639916.0
+528,Western Africa,Ghana,2011,64.06,26205941.0
+529,Western Africa,Ghana,2012,56.51,26858762.0
+530,Western Africa,Ghana,2013,70.7,27525597.0
+531,Western Africa,Ghana,2014,78.3,28196358.0
+532,Western Africa,Ghana,2015,74.0,28870939.0
+533,Western Africa,Ghana,2016,79.3,29554303.0
+534,Western Africa,Ghana,2017,79.0,30222262.0
+535,Western Africa,Ghana,2018,80.4,30870641.0
+536,Western Africa,Ghana,2019,83.5,31522290.0
+537,Western Africa,Ghana,2020,85.44,32180401.0
+538,Western Africa,Ghana,2021,86.3,32833031.0
+539,Western Africa,Guinea,2011,29.46,10527712.0
+540,Western Africa,Guinea,2012,26.2,10788692.0
+541,Western Africa,Guinea,2013,32.18,11055430.0
+542,Western Africa,Guinea,2014,33.53,11333365.0
+543,Western Africa,Guinea,2015,34.88,11625998.0
+544,Western Africa,Guinea,2016,33.5,11930985.0
+545,Western Africa,Guinea,2017,35.4,12240789.0
+546,Western Africa,Guinea,2018,45.0,12554864.0
+547,Western Africa,Guinea,2019,42.2,12877539.0
+548,Western Africa,Guinea,2020,44.75,13205153.0
+549,Western Africa,Guinea,2021,46.81,13531906.0
+550,Western Africa,Guinea-Bissau,2011,13.52,1609017.0
+551,Western Africa,Guinea-Bissau,2012,14.93,1652717.0
+552,Western Africa,Guinea-Bissau,2013,16.34,1697753.0
+553,Western Africa,Guinea-Bissau,2014,17.2,1743309.0
+554,Western Africa,Guinea-Bissau,2015,20.11,1788919.0
+555,Western Africa,Guinea-Bissau,2016,22.91,1834552.0
+556,Western Africa,Guinea-Bissau,2017,26.0,1879826.0
+557,Western Africa,Guinea-Bissau,2018,28.38,1924955.0
+558,Western Africa,Guinea-Bissau,2019,30.93,1970457.0
+559,Western Africa,Guinea-Bissau,2020,33.37,2015828.0
+560,Western Africa,Guinea-Bissau,2021,35.76,2060721.0
+561,Western Africa,Liberia,2011,4.1,4181150.0
+562,Western Africa,Liberia,2012,9.25,4331740.0
+563,Western Africa,Liberia,2013,9.8,4427313.0
+564,Western Africa,Liberia,2014,9.4,4519398.0
+565,Western Africa,Liberia,2015,15.23,4612329.0
+566,Western Africa,Liberia,2016,17.7,4706097.0
+567,Western Africa,Liberia,2017,24.2,4796631.0
+568,Western Africa,Liberia,2018,22.77,4889391.0
+569,Western Africa,Liberia,2019,23.1,4985289.0
+570,Western Africa,Liberia,2020,27.56,5087584.0
+571,Western Africa,Liberia,2021,29.85,5193416.0
+572,Western Africa,Mali,2011,28.82,16039734.0
+573,Western Africa,Mali,2012,25.6,16514687.0
+574,Western Africa,Mali,2013,32.42,17004033.0
+575,Western Africa,Mali,2014,34.22,17551814.0
+576,Western Africa,Mali,2015,37.6,18112907.0
+577,Western Africa,Mali,2016,38.8,18700106.0
+578,Western Africa,Mali,2017,34.78,19311355.0
+579,Western Africa,Mali,2018,50.9,19934298.0
+580,Western Africa,Mali,2019,47.85,20567424.0
+581,Western Africa,Mali,2020,50.64,21224040.0
+582,Western Africa,Mali,2021,53.38,21904983.0
+583,Western Africa,Mauritania,2011,35.3,3524249.0
+584,Western Africa,Mauritania,2012,36.42,3636113.0
+585,Western Africa,Mauritania,2013,37.58,3742959.0
+586,Western Africa,Mauritania,2014,38.8,3843174.0
+587,Western Africa,Mauritania,2015,39.5,3946220.0
+588,Western Africa,Mauritania,2016,41.25,4051890.0
+589,Western Africa,Mauritania,2017,42.9,4160015.0
+590,Western Africa,Mauritania,2018,43.59,4270712.0
+591,Western Africa,Mauritania,2019,44.95,4383849.0
+592,Western Africa,Mauritania,2020,45.4,4498604.0
+593,Western Africa,Mauritania,2021,47.7,4614974.0
+594,Western Africa,Niger,2011,14.3,17283112.0
+595,Western Africa,Niger,2012,14.4,17954407.0
+596,Western Africa,Niger,2013,15.15,18653199.0
+597,Western Africa,Niger,2014,15.73,19372014.0
+598,Western Africa,Niger,2015,16.6,20128124.0
+599,Western Africa,Niger,2016,16.97,20921743.0
+600,Western Africa,Niger,2017,17.58,21737922.0
+601,Western Africa,Niger,2018,17.6,22577058.0
+602,Western Africa,Niger,2019,18.46,23443393.0
+603,Western Africa,Niger,2020,18.72,24333639.0
+604,Western Africa,Niger,2021,18.6,25252722.0
+605,Western Africa,Nigeria,2011,55.9,165463745.0
+606,Western Africa,Nigeria,2012,53.02,170075932.0
+607,Western Africa,Nigeria,2013,55.6,174726123.0
+608,Western Africa,Nigeria,2014,54.15,179379016.0
+609,Western Africa,Nigeria,2015,52.5,183995785.0
+610,Western Africa,Nigeria,2016,59.3,188666931.0
+611,Western Africa,Nigeria,2017,54.4,193495907.0
+612,Western Africa,Nigeria,2018,56.5,198387623.0
+613,Western Africa,Nigeria,2019,55.4,203304492.0
+614,Western Africa,Nigeria,2020,55.4,208327405.0
+615,Western Africa,Nigeria,2021,59.5,213401323.0
+616,Western Africa,Senegal,2011,56.5,12875880.0
+617,Western Africa,Senegal,2012,56.5,13231833.0
+618,Western Africa,Senegal,2013,57.0,13595566.0
+619,Western Africa,Senegal,2014,61.0,13970308.0
+620,Western Africa,Senegal,2015,60.5,14356181.0
+621,Western Africa,Senegal,2016,64.5,14751356.0
+622,Western Africa,Senegal,2017,61.7,15157793.0
+623,Western Africa,Senegal,2018,66.0,15574909.0
+624,Western Africa,Senegal,2019,70.4,16000781.0
+625,Western Africa,Senegal,2020,64.3,16436120.0
+626,Western Africa,Senegal,2021,67.98,16876720.0
+627,Western Africa,Sierra Leone,2011,14.2,6612385.0
+628,Western Africa,Sierra Leone,2012,17.16,6788587.0
+629,Western Africa,Sierra Leone,2013,13.5,6964859.0
+630,Western Africa,Sierra Leone,2014,18.83,7140688.0
+631,Western Africa,Sierra Leone,2015,19.66,7314773.0
+632,Western Africa,Sierra Leone,2016,20.3,7493913.0
+633,Western Africa,Sierra Leone,2017,23.4,7677565.0
+634,Western Africa,Sierra Leone,2018,26.1,7861281.0
+635,Western Africa,Sierra Leone,2019,22.7,8046828.0
+636,Western Africa,Sierra Leone,2020,26.31,8233970.0
+637,Western Africa,Sierra Leone,2021,27.49,8420641.0
+638,Western Africa,Togo,2011,39.7,6748672.0
+639,Western Africa,Togo,2012,39.13,6926635.0
+640,Western Africa,Togo,2013,40.95,7106229.0
+641,Western Africa,Togo,2014,45.7,7288383.0
+642,Western Africa,Togo,2015,44.75,7473229.0
+643,Western Africa,Togo,2016,46.77,7661354.0
+644,Western Africa,Togo,2017,48.0,7852795.0
+645,Western Africa,Togo,2018,50.0,8046679.0
+646,Western Africa,Togo,2019,52.46,8243094.0
+647,Western Africa,Togo,2020,54.13,8442580.0
+648,Western Africa,Togo,2021,55.74,8644829.0
+649,Western Africa,Western Africa,2011,47.18,92551204.82
+650,Western Africa,Western Africa,2012,45.0,95108176.56
+651,Western Africa,Western Africa,2013,48.32,97690383.91
+652,Western Africa,Western Africa,2014,48.93,100241932.6
+653,Western Africa,Western Africa,2015,47.8,102734052.34
+654,Western Africa,Western Africa,2016,52.35,105240751.4
+655,Western Africa,Western Africa,2017,49.8,107847889.39
+656,Western Africa,Western Africa,2018,52.48,110490990.3
+657,Western Africa,Western Africa,2019,52.42,113137688.52
+658,Western Africa,Western Africa,2020,52.88,115845518.9
+659,Western Africa,Western Africa,2021,55.61,118579979.85

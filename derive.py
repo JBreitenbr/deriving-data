@@ -1,10 +1,10 @@
 import pandas as pd
 import warnings
 warnings.filterwarnings("ignore")
-pathDict={"life_expectancy":"API_SP.DYN.LE00.IN_DS2_en_csv_v2_107.csv","hiv":"API_SH.DYN.AIDS.ZS_DS2_en_csv_v2_9.csv","fertility":"API_SP.DYN.TFRT.IN_DS2_en_csv_v2_570.csv","pop_density":"API_EN.POP.DNST_DS2_en_csv_v2_1512.csv","infant_deaths":"API_SP.DYN.IMRT.IN_DS2_en_csv_v2_31.csv","pop_under_15":"API_SP.POP.0014.TO.ZS_DS2_en_csv_v2_3732.csv","neonatal_deaths":"API_SH.DYN.NMRT_DS2_en_csv_v2_3414.csv","under5_deaths":"API_SH.DYN.MORT_DS2_en_csv_v2_1984.csv","undernourish":"API_SN.ITK.DEFC.ZS_DS2_en_csv_v2_36.csv","urban_pop":"API_SP.URB.TOTL.IN.ZS_DS2_en_csv_v2_702.csv","gdp":"API_NY.GDP.PCAP.CD_DS2_en_csv_v2_184.csv","electricity":"API_EG.ELC.ACCS.ZS_DS2_en_csv_v2_452.csv","pop":"API_SP.POP.TOTL_DS2_en_csv_v2_85.csv"}
+pathDict={"life_expectancy":"API_SP.DYN.LE00.IN_DS2_en_csv_v2_107.csv","hiv":"API_SH.DYN.AIDS.ZS_DS2_en_csv_v2_9.csv","fertility":"API_SP.DYN.TFRT.IN_DS2_en_csv_v2_570.csv","pop_density":"API_EN.POP.DNST_DS2_en_csv_v2_1512.csv","infant_deaths":"API_SP.DYN.IMRT.IN_DS2_en_csv_v2_31.csv","pop_under_15":"API_SP.POP.0014.TO.ZS_DS2_en_csv_v2_3732.csv","neonatal_deaths":"API_SH.DYN.NMRT_DS2_en_csv_v2_3414.csv","under5_deaths":"API_SH.DYN.MORT_DS2_en_csv_v2_1984.csv","undernourish":"API_SN.ITK.DEFC.ZS_DS2_en_csv_v2_36.csv","urban_pop":"API_SP.URB.TOTL.IN.ZS_DS2_en_csv_v2_702.csv","gdp":"API_NY.GDP.PCAP.CD_DS2_en_csv_v2_184.csv","electricity":"API_EG.ELC.ACCS.ZS_DS2_en_csv_v2_452.csv","mobile_phone":"API_IT.CEL.SETS.P2_DS2_en_csv_v2_2987.csv","pop":"API_SP.POP.TOTL_DS2_en_csv_v2_85.csv","homicides":"API_VC.IHR.PSRC.P5_DS2_en_csv_v2_3892.csv","unemployment":"API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_80.csv","agri":"API_AG.LND.AGRI.ZS_DS2_en_csv_v2_1675.csv","forest":"API_AG.LND.FRST.ZS_DS2_en_csv_v2_123.csv","afofi":"API_NV.AGR.TOTL.ZS_DS2_en_csv_v2_79.csv","phone":"API_IT.MLT.MAIN.P2_DS2_en_csv_v2_2984.csv"}
 def regional(dfr,region,cols,pcols):
     y_dict={}
-    if region=="Africa":
+    if region=="Africa (all countries)":
       df=dfr
     else:
       df=dfr[dfr["region"]==region]
@@ -40,12 +40,19 @@ def create_dim(dim):
     pop=pop0[pcols]
     mrg=pd.merge(d,afr,on="land",how="right")
     df=pd.merge(mrg,pop,on="land",how="inner")
-    print(df.isnull().sum())
+    nulls=df.isnull().sum()
+    #print(nulls)
+    #print(nulls.index)
+    yr=nulls[nulls>0]
+    pz=yr.index.tolist()
+    print(pz)
+    print(dim)
+    for el in pz:
+      print(df[df[el].isnull()])
     y_c=cols[1:]
     y_p=pcols[1:]
-    print(y_c)
     dfList=[df]
-    regions=["Africa"]+df["region"].unique().tolist()
+    regions=["Africa (all countries)"]+df["region"].unique().tolist()
     for el in regions:
       dfList.append(regional(df,el,y_c,y_p))
     ges=pd.concat(dfList)

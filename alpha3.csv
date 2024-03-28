@@ -1,0 +1,61 @@
+name,alpha-3,code,region,intermediate-region
+Algeria,DZA,012,Africa,Northern Africa
+Angola,AGO,024,Africa,Middle Africa
+Benin,BEN,204,Africa,Western Africa
+Botswana,BWA,072,Africa,Southern Africa
+British Indian Ocean Territory,IOT,086,Africa,Eastern Africa
+Burkina Faso,BFA,854,Africa,Western Africa
+Burundi,BDI,108,Africa,Eastern Africa
+Cabo Verde,CPV,132,Africa,Western Africa
+Cameroon,CMR,120,Africa,Middle Africa
+Central African Republic,CAF,140,Africa,Middle Africa
+Chad,TCD,148,Africa,Middle Africa
+Comoros,COM,174,Africa,Eastern Africa
+Congo,COG,178,Africa,Middle Africa
+"Congo, Democratic Republic of the",COD,180,Africa,Middle Africa
+Côte d'Ivoire,CIV,384,Africa,Western Africa
+Djibouti,DJI,262,Africa,Eastern Africa
+Egypt,EGY,818,Africa,Northern Africa
+Equatorial Guinea,GNQ,226,Africa,Middle Africa
+Eritrea,ERI,232,Africa,Eastern Africa
+Eswatini,SWZ,748,Africa,Southern Africa
+Ethiopia,ETH,231,Africa,Eastern Africa
+French Southern Territories,ATF,260,Africa,Eastern Africa
+Gabon,GAB,266,Africa,Middle Africa
+Gambia,GMB,270,Africa,Western Africa
+Ghana,GHA,288,Africa,Western Africa
+Guinea,GIN,324,Africa,Western Africa
+Guinea-Bissau,GNB,624,Africa,Western Africa
+Kenya,KEN,404,Africa,Eastern Africa
+Lesotho,LSO,426,Africa,Southern Africa
+Liberia,LBR,430,Africa,Western Africa
+Libya,LBY,434,Africa,Northern Africa
+Madagascar,MDG,450,Africa,Eastern Africa
+Malawi,MWI,454,Africa,Eastern Africa
+Mali,MLI,466,Africa,Western Africa
+Mauritania,MRT,478,Africa,Western Africa
+Mauritius,MUS,480,Africa,Eastern Africa
+Mayotte,MYT,175,Africa,Eastern Africa
+Morocco,MAR,504,Africa,Northern Africa
+Mozambique,MOZ,508,Africa,Eastern Africa
+Namibia,NAM,516,Africa,Southern Africa
+Niger,NER,562,Africa,Western Africa
+Nigeria,NGA,566,Africa,Western Africa
+Réunion,REU,638,Africa,Eastern Africa
+Rwanda,RWA,646,Africa,Eastern Africa
+"Saint Helena, Ascension and Tristan da Cunha",SHN,654,Africa,Western Africa
+Sao Tome and Principe,STP,678,Africa,Middle Africa
+Senegal,SEN,686,Africa,Western Africa
+Seychelles,SYC,690,Africa,Eastern Africa
+Sierra Leone,SLE,694,Africa,Western Africa
+Somalia,SOM,706,Africa,Eastern Africa
+South Africa,ZAF,710,Africa,Southern Africa
+South Sudan,SSD,728,Africa,Eastern Africa
+Sudan,SDN,729,Africa,Northern Africa
+"Tanzania, United Republic of",TZA,834,Africa,Eastern Africa
+Togo,TGO,768,Africa,Western Africa
+Tunisia,TUN,788,Africa,Northern Africa
+Uganda,UGA,800,Africa,Eastern Africa
+Western Sahara,ESH,732,Africa,Northern Africa
+Zambia,ZMB,894,Africa,Eastern Africa
+Zimbabwe,ZWE,716,Africa,Eastern Africa
