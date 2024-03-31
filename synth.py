@@ -1,7 +1,9 @@
 import pandas as pd
 colorSchemes=["BuGn","BuPu","GnBu","Greens","OrRd","PuBu","PuBuGn","PuRd","RdPu","YlGn","YlGnBu","YlOrBr","Reds","Oranges","Blues","Greys","Purples","YlOrRd"]
 df=pd.read_csv("df_choro.csv")
-dims=df.columns[2:-7]
+dims=df.columns[2:-6]
+#print(df.columns)
+#print(dims)
 dimDesc={}
 dimDesc["life_expectancy"]="Life expectancy at birth, total (years)"
 #dimDesc["hiv"]="Prevalence of HIV, total (% of population ages 15-49)"

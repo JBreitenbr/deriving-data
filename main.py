@@ -1,8 +1,8 @@
 import pandas as pd
 from functools import reduce
 import derive
-dimList=["life_expectancy","fertility","infant_deaths","neonatal_deaths","under5_deaths","pop_under_15","undernourish","urban_pop","electricity","mobile_phone","unemployment","agri","forest","afofi","phone"]
-#dimList=["phone"]
+dimList=["life_expectancy","fertility","infant_deaths","under5_deaths","undernourish","electricity","mobile_phone","unemployment","afofi","wparl","industry","hiv","tub"]
+#dimList=["hiv"]
 dimDataList=[]
 for dim in dimList:
   dimDataList.append(derive.create_dim(dim))
@@ -22,7 +22,7 @@ for el in popList:
 df_choro["population"]=popList2
 del df_choro["pop"]
 a=pd.read_csv("africa.csv")
-a["Code"]=a["adm0_a3_is"]
+#a["Code"]=a["code"]
 
 df_choro=pd.merge(df_choro,a,on=["region","country"],how="outer")
 df_choro["Year"]=df_choro["year"]
