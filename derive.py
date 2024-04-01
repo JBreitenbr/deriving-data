@@ -22,7 +22,7 @@ def regional(dfr,region,cols,pcols):
       l["country"]=region
     return l
 
-def create_dim(dim):
+def create_dim(dim,imputed):
     afr=pd.read_csv("africa.csv")
     path="World Bank Data/"+pathDict[dim]
     d0=pd.read_csv(path,skiprows=4)
@@ -40,15 +40,6 @@ def create_dim(dim):
     pop=pop0[pcols]
     mrg=pd.merge(d,afr,on="land",how="right")
     df=pd.merge(mrg,pop,on="land",how="inner")
-    nulls=df.isnull().sum()
-    #print(nulls)
-    #print(nulls.index)
-    yr=nulls[nulls>0]
-    pz=yr.index.tolist()
-    print(pz)
-    print(dim)
-    for el in pz:
-      print(df[df[el].isnull()])
     y_c=cols[1:]
     y_p=pcols[1:]
     dfList=[df]
@@ -74,7 +65,10 @@ def create_dim(dim):
     melted=pd.merge(melted,sub,on=["region","year"],how="right")
     for i in range(len(melted)):
       if pd.isnull(melted.loc[i,dim]):
-         melted.loc[i,dim]=melted.loc[i,hlp]
+          if imputed==True:
+             melted.loc[i,dim]=melted.loc[i,hlp]
+          else:
+             melted.loc[i,dim]=9999
     del melted[hlp]
     melted=melted.sort_values(by=["region","country","year"])
     return melted
