@@ -1,4 +1,8 @@
 import pandas as pd
+from functools import reduce
+import derive, create_csv
+create_csv.create_csv(False,"df_choro.csv")
+create_csv.create_csv(True,"df_imputed.csv")
 df=pd.read_csv("df_choro.csv")
 dims=df.columns[2:-6]
 dimDesc={}
